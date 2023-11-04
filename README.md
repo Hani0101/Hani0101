@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hani0101
-- 👀 I’m interested in web design/development
-- 🌱 I’m currently learning html/css/jvscrpt/c++
+- 👀 I’m interested in Computational Sciences
 - 📫 How to reach me ... hani.abdel.ghani12@gmail.com
 
 <!---
