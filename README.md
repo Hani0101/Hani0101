@@ -3,7 +3,7 @@
 <h3 align="center">A coding Tutor and a second year computer science student</h3>
 <ul>
   <li>
-<p dir = "auto">🌱 Everyday Exploring <strong>new concepts related to programming</strong></p>
+<p dir = "auto" style="margin=30px">🌱 Everyday Exploring <strong>new concepts related to programming</strong></p>
   </li>
 </ul>
 <h4>Languages and Tools:</h4>
