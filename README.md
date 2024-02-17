@@ -5,7 +5,11 @@
 <li><p dir = "auto">🌱 Everyday Exploring <strong>new concepts related to programming</strong></p></li>
 
 <h4>Languages and Tools:</h4>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="48">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" width="48">
+<img src="" width="48">
 
 
 <!---
