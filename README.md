@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hani</h1>
 
 <h3 align="center">A coding Tutor and a second year computer science student</h3>
-
-<li><p dir = "auto">🌱 Everyday Exploring <strong>new concepts related to programming</strong></p></li>
-
+<ul>
+  <li>
+<p dir = "auto">🌱 Everyday Exploring <strong>new concepts related to programming</strong></p>
+  </li>
+</ul>
 <h4>Languages and Tools:</h4>
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="48">
