@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hani</h1>
 
 <h3 align="center">A coding Tutor and a second year computer science student</h3>
-<ul>
+<ul style="margin=30px>
   <li>
-<p dir = "auto" style="margin=30px">🌱 Everyday Exploring <strong>new concepts related to programming</strong></p>
+<p dir = "auto">🌱 Everyday Exploring <strong>new concepts related to programming</strong></p>
   </li>
 </ul>
 <h4>Languages and Tools:</h4>
