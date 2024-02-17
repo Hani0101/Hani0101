@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hani</h1>
 
 <h3 align="center">A coding Tutor and a second year computer science student</h3>
-<ul style="margin=30px;">
+<ul style="margin-top: 20px;">
   <li>
 <p dir = "auto">🌱 Everyday Exploring <strong>new concepts related to programming</strong></p>
   </li>
