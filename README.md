@@ -7,7 +7,7 @@
   </li>
 </ul>
 <h4>Languages and Tools:</h4>
-<div>
+<div style="display:inline-block;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="48">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48">
