@@ -12,6 +12,15 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" width="48">
 </div>
 
 
