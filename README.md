@@ -5,6 +5,6 @@
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Hani0101&hide=prs,stars" alt="Hani's GitHub stats" />
   <a href="https://github.com/Hani0101/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hani0101&layout=donut" alt="Top Languages" style=" padding-right: 15px; height:170px; width:400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hani0101&layout=donut" alt="Top Languages" style=" padding-right: 15px; height:190px; width:400px" />
   </a>
 </div>
