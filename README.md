@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 <style>
 #myDIV {
@@ -28,3 +30,5 @@
     </a>
   </div>
 </div>
+</html>
+
