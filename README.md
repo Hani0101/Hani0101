@@ -4,3 +4,5 @@
 
 
 [![Hani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hani0101)](https://github.com/Hani0101/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=prs,stars)
