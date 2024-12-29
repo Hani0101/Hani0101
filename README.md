@@ -7,8 +7,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Hani0101&hide=prs,stars" alt="Hani's GitHub stats" width="400" />
   </div>
   <div>
-    <a href="https://github.com/Hani0101/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hani0101&layout=donut" alt="Top Languages" width="400" />
-    </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hani0101&layout=donut&hide=Jupyter%20Notebook" alt="Top Languages" width="400" />
   </div>
 </div>
