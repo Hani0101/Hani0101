@@ -2,7 +2,7 @@
 
 ### A coding Tutor, Full Stack Developer Intern and a third year computer science student :)
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div style="margin:auto; display: flex; justify-content: center; align-items: center; gap: 10px;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Hani0101&hide=prs,stars" alt="Hani's GitHub stats" width="400" />
   </div>
