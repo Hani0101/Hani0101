@@ -1,12 +1,8 @@
 # Hi 👋, my name is Hani and I am a senior computer science student.
 ## Git stats:
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hani0101&show_icons=true&theme=transparent" 
-         alt="Hani's GitHub stats" 
-         style="max-width: 200px; height: 200px; object-fit: contain;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hani0101&&show_icons=true&theme=transparent&layout=compact&hide=Jupyter%20Notebook,C%2B%2B" 
-         alt="Top Languages" 
-         style="max-width: 200px; height: 200px; object-fit: contain;" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hani0101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hani0101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&hide=Jupyter%20Notebook" height="150" alt="languages graph"  />
 </div>
 
 
