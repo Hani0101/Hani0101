@@ -1,4 +1,4 @@
-# Hi 👋, my name is Hani and I am a senior computer science student.
+# Hi 👋, my name is Hani and I am a fresh computer science graduate.
 ## Git stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hani0101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -6,16 +6,16 @@
 </div>
 
 
-<h2>My top skills: </h2>
+<h2>Skills: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,py,react,html,css,js,tailwind,cs,dotnet,ts,obsidian,materialui,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,py,html,css,js,angular,docker,cs,dotnet,ts,bootstrap,figma" />
   </a>
 </p>
-<h2>Things I am currently learning:</h2>
+<h2>Things I am currently discovering more:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,blender,figma,docker,unity" />
+    <img src="https://skillicons.dev/icons?i=threejs" />
   </a>
 </p>
 <h2>My socials:</h2>
